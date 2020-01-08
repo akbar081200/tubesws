@@ -1,0 +1,13 @@
+Nama-Nama Kelompok:
+- Rasyid Hafiz 		(181402099)
+- M Ali Akbar Sinaga 	(181402078)
+- Irsan Maulana 	(181402012)
+
+Deskripsi:
+
+ Aplikasi bernama NeoTech yang diambil dari kata Neoclassical ArchiTechture,
+merupakan aplikasi pencarian gedung yang berjenis arsitektural Neoclassical,
+Cara kerjanya yaitu kita dapat mencari lokasi di search bar yang disediakan
+lalu, hasil dari lokasi yang kita ketikkan akan muncul , dan data yang muncul
+tsb dapat kita klik lagi untuk menampilkan data detail yang lebih kompleks 
+mengenai gedung tsb.
